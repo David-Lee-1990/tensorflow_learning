@@ -1,0 +1,26 @@
+<tf.Variable 'CONV_1/W:0' shape=(5, 5, 1, 32) dtype=float32_ref>
+<tf.Variable 'CONV_1/b:0' shape=(32,) dtype=float32_ref>
+<tf.Variable 'COV_2/W:0' shape=(5, 5, 32, 64) dtype=float32_ref>
+<tf.Variable 'COV_2/b:0' shape=(64,) dtype=float32_ref>
+<tf.Variable 'MLP_1/W_fc:0' shape=(3136, 1024) dtype=float32_ref>
+<tf.Variable 'MLP_1/bias_fc:0' shape=(1024,) dtype=float32_ref>
+<tf.Variable 'MLP_2/W_fc:0' shape=(1024, 10) dtype=float32_ref>
+<tf.Variable 'MLP_2/bias_fc:0' shape=(10,) dtype=float32_ref>
+<tf.Variable 'LossPredict/beta1_power:0' shape=() dtype=float32_ref>
+<tf.Variable 'LossPredict/beta2_power:0' shape=() dtype=float32_ref>
+<tf.Variable 'LossPredict/CONV_1/W/Adam:0' shape=(5, 5, 1, 32) dtype=float32_ref>
+<tf.Variable 'LossPredict/CONV_1/W/Adam_1:0' shape=(5, 5, 1, 32) dtype=float32_ref>
+<tf.Variable 'LossPredict/CONV_1/b/Adam:0' shape=(32,) dtype=float32_ref>
+<tf.Variable 'LossPredict/CONV_1/b/Adam_1:0' shape=(32,) dtype=float32_ref>
+<tf.Variable 'LossPredict/COV_2/W/Adam:0' shape=(5, 5, 32, 64) dtype=float32_ref>
+<tf.Variable 'LossPredict/COV_2/W/Adam_1:0' shape=(5, 5, 32, 64) dtype=float32_ref>
+<tf.Variable 'LossPredict/COV_2/b/Adam:0' shape=(64,) dtype=float32_ref>
+<tf.Variable 'LossPredict/COV_2/b/Adam_1:0' shape=(64,) dtype=float32_ref>
+<tf.Variable 'LossPredict/MLP_1/W_fc/Adam:0' shape=(3136, 1024) dtype=float32_ref>
+<tf.Variable 'LossPredict/MLP_1/W_fc/Adam_1:0' shape=(3136, 1024) dtype=float32_ref>
+<tf.Variable 'LossPredict/MLP_1/bias_fc/Adam:0' shape=(1024,) dtype=float32_ref>
+<tf.Variable 'LossPredict/MLP_1/bias_fc/Adam_1:0' shape=(1024,) dtype=float32_ref>
+<tf.Variable 'LossPredict/MLP_2/W_fc/Adam:0' shape=(1024, 10) dtype=float32_ref>
+<tf.Variable 'LossPredict/MLP_2/W_fc/Adam_1:0' shape=(1024, 10) dtype=float32_ref>
+<tf.Variable 'LossPredict/MLP_2/bias_fc/Adam:0' shape=(10,) dtype=float32_ref>
+<tf.Variable 'LossPredict/MLP_2/bias_fc/Adam_1:0' shape=(10,) dtype=float32_ref>
