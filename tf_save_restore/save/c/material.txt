@@ -1,0 +1,1 @@
+https://github.com/tostq/DeepLearningC/blob/master/CNN/CNN/minst.h
