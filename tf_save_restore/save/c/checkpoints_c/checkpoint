@@ -1,0 +1,3 @@
+model_checkpoint_path: "/Users/lee/tensorflow_learning/tf_save_restore/save/checkpoints_c/model-150"
+all_model_checkpoint_paths: "/Users/lee/tensorflow_learning/tf_save_restore/save/checkpoints_c/model-100"
+all_model_checkpoint_paths: "/Users/lee/tensorflow_learning/tf_save_restore/save/checkpoints_c/model-150"
